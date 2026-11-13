@@ -1,4 +1,4 @@
 # ajaydemo
 This is my first Github Project
 <br>
-Author - Ajay Kumar
+Author - Ajay Kumar(Apna College)
